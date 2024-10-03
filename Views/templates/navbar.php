@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
     
     <link rel="icon" href="<?php echo base_url; ?>Assets/img/conf.png" type="image/x-icon">
-    <title>PROYECTO BASE</title>
+    <title>PRINCIPAL</title>
 </head>
 <body>
 <div class="wrapper">
